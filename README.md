@@ -42,7 +42,7 @@ flutterwright/
 │       ├── lib/                  # Service extension tracking controllers (.dart)
 │       └── pubspec.yaml          
 │
-└── example_app/                  # Sandbox test validation target app
+└── example_app/                  # Application for test validation
 ```
 
 ## Setup and Usage
