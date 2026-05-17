@@ -4,6 +4,9 @@
 .dart_tool/
 .packages
 build/
+node_modules/
+playwright-report/
+test-results/
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 
