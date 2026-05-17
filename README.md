@@ -42,7 +42,7 @@ flutterwright/
 │       └── pubspec.yaml          
 │
 └── example_app/                  # Example Flutter app for local validation
-
+```
 
 ## Setup and Usage
 
